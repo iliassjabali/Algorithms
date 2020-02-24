@@ -1,5 +1,5 @@
  Intro to Functions
  Intro to Creating Custom Functions
- Pow Function 
+ Power Function 
  Creating Custom Functions
  Creating Void Functions
