@@ -1,1 +1,1 @@
-# algorithms with c++, and working with algorithms standford class.
+# algorithms with c++, and working with algorithms/.
