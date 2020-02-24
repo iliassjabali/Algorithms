@@ -5,7 +5,7 @@ using std::cout;
 using std::cin;
 double power(double base, double exponent){
    double result = 1;
-    for (int i; i<exponent; i++){
+    for(int i = 0; i<exponent; i++){
         result = result * base;
 
     }return result;
@@ -21,5 +21,5 @@ int main(){
     cin >> base;
     cout << "entre the exponent";
     cin >> expo;
-    print_f(base,expo)
+    print_f(base,expo);
 }
