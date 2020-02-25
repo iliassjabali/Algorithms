@@ -1,11 +1,9 @@
 Intro to C++ Data Types
 
-Integral Data Types and Signed vs Unsigned
-Integral Data Types, sizeof, limit
-char Data Type
-bool Data Type
-Floating Point Numbers
-Constant const, macro, and enum
+1 -- Integral Data Types and Signed vs Unsigned, Integral Data Types, sizeof, limit
+2 -- bool Data Type
+3 -- Floating Point Numbers
+4 -- Constant const, macro, and enum
 
 Numeric Functions
 String Class and C Strings
