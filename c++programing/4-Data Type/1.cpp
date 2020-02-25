@@ -12,7 +12,7 @@ int main(int argc, char const *argv[]) {
   long c;
   long long d;
 
-  // there is Unsigned type, can stored only the postive inputs, and they have the same memory size.
+  // there is Unsigned type, can stored only the postive inputs, and they have the same memory size as the normal types.
   unsigned short aa; //has 4bit
   unsigned int bb;  // has 8 bit
   unsigned long cc; // 16 bit
