@@ -1,1 +1,1 @@
-# algorithms with c++, and working with algorithms/.
+# Algorithms with c++/c, with an application of algorithms
