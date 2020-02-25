@@ -1,6 +1,6 @@
 #include <iostream>
 // there many ways to decalation of const in c++ 1st is to put it right here before the main functon,
-#define PI 3.14
+#define PI 3.14 // called const or macro as well; 
 
 using namespace std;
 
