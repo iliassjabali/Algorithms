@@ -1,3 +1,4 @@
-Intro to Our App
-Creating a Menu
-Creating a Guessing Game
+##Intro to Our App
+
+ 1. Creating a Menu
+ 2. Creating a Guessing Game
